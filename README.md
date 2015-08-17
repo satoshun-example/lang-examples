@@ -1,3 +1,4 @@
-# Today I Learned
+# Programming language Examples
 
-- Io-example: study Io language
+- Io-example: Io language
+- haskell-example: Haskell language
